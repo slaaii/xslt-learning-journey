@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="photos.xsl"?>
+<album>
+  <photo>
+    <filename>sunset.jpg</filename>
+    <description>Beautiful sunset</description>
+    <date>2024-08-01</date>
+    <location>Beach</location>
+  </photo>
+  <photo>
+    <filename>mountain.jpg</filename>
+    <description>Mountain view</description>
+    <date>2024-08-02</date>
+    <location>Alps</location>
+  </photo>
+  <photo>
+    <filename>city.jpg</filename>
+    <description>City lights</description>
+    <date>2024-08-03</date>
+    <location>Amsterdam</location>
+  </photo>
+</album>
